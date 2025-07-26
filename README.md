@@ -5,7 +5,7 @@ A complete Flutter-based mobile application for a restaurant that allows users t
 ![restaurant app](assets/images/restaurant_app.png)
 
 ### Figma Design 
-![link](https://www.figma.com/design/3QUtWA5a7zqbJR0CM6tOri/Restaurant-App?node-id=0-1&t=eOiv3eHot4sz2Npp-1)
+[link](https://www.figma.com/design/3QUtWA5a7zqbJR0CM6tOri/Restaurant-App?node-id=0-1&t=eOiv3eHot4sz2Npp-1)
 
 ---
 
