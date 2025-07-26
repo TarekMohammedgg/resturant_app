@@ -2,6 +2,7 @@
 
 A complete Flutter-based mobile application for a restaurant that allows users to browse menus, add items to a cart, and place orders. It uses Firebase for authentication and backend integration.
 
+![restaurant app](assets/images/restaurant_app.png)
 ---
 
 ## 📱 Features
