@@ -37,7 +37,7 @@ A complete Flutter-based mobile application for a restaurant that allows users t
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/flutter-restaurant-app.git](https://github.com/TarekMohammedgg/resturant_app.git)
+git clone https://github.com/TarekMohammedgg/resturant_app.git
 cd flutter-restaurant-app
 
 # Get dependencies
