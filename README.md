@@ -59,6 +59,7 @@ flutter run
 5.Replace existing Firebase config or use firebase_options.dart from FlutterFire CLI
 
 ### File Structure 
+```bash
 lib/
 ├── core/
 │   ├── cubits/              # State management
@@ -72,3 +73,4 @@ lib/
 ├── widgets/                 # Reusable custom widgets
 ├── firebase_options.dart    # Firebase config
 └── main.dart                # App entry point
+```
